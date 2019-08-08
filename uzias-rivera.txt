@@ -1,0 +1,2 @@
+I created this in git bash
+This file can contain anything
